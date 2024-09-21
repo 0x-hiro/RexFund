@@ -19,8 +19,8 @@ RexFund is a cutting-edge crowdfunding platform built on the Rexcrypt network. I
 RexFund was developed using a combination of blockchain and web technologies:
 - **Blockchain Backbone**: The Rexcrypt blockchain serves as the foundation, ensuring secure and transparent handling of funds.
 - **Smart Contracts**: Written in Solidity, smart contracts manage the fund allocation and milestone triggers.
-- **Front-end**: Built with React to ensure a seamless and user-friendly interface.
-- **Back-end**: Node.js is used for handling API requests, and Web3.js allows the platform to communicate with the Rexcrypt network.
+- **Front-end**: Built with React.js to ensure a seamless and user-friendly interface.
+- **Back-end**: TypeScript is used for handling API requests, and Web3.js allows the platform to communicate with the Rexcrypt network.
 
 ### Challenges We Ran Into
 
